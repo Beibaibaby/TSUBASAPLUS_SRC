@@ -19,7 +19,7 @@ const (
   // const vars for db
   host              = "127.0.0.1"
   port              = 5432
-  user              = "jliu158"
+  user              = "yxu103"
   password          = "99golang"
   dbname            = "climatedb"
   tablename         = "pairsbwr"
